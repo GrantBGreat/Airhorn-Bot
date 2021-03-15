@@ -19,5 +19,5 @@ more commands coming soon lol
 6) Navigate to the folder with the bots code and run `npm i`, this will install the dependancys discord.js, discordjs/opus, dotenv, fs, and ms.
 7) You can now start the bot using `node .` in the bot's root folder.
 
-### Updates
+### Updates:
 This bot is currently still in development and may be buggy, if you would like to make changes simply create a pull request and I would be happy to collaborate.
