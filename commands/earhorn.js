@@ -1,5 +1,6 @@
 const Discord = require('discord.js')
 
+// WARNING: THIS ONE IS EARRAPE
 module.exports.run = async (client, message, args) => {
   // check if the user is in vc
     if (! message.member.voice.channel) return message.reply("are you so scared you wont enter a vc with me?");
@@ -9,7 +10,7 @@ module.exports.run = async (client, message, args) => {
 
     // play the sound in the vc
     await voiceChannel.join().then(connection =>{
-      const dispatcher = connection.play('./assets/cheers.mp3');
+      const dispatcher = connection.play('./assets/mlg-airhorn_earrape.mp3');
     }).catch(err => console.error(err));
 
     // leave the vc

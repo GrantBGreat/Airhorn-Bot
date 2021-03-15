@@ -9,7 +9,7 @@ module.exports.run = async (client, message, args) => {
 
     // play the sound in the vc
     await voiceChannel.join().then(connection =>{
-      const dispatcher = connection.play('./assets/cheers.mp3');
+      const dispatcher = connection.play('./assets/mlg-airhorn.mp3');
     }).catch(err => console.error(err));
 
     // leave the vc
