@@ -11,4 +11,5 @@ more commands coming soon lol
 3) Copy the discord token given for the bot:
   
   ![image](https://user-images.githubusercontent.com/72450527/111185348-408d9880-8588-11eb-94ca-8f35220b7864.png)
+
 4) (Install node)[https://nodejs.org/en/].
