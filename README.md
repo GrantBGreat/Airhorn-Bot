@@ -1,9 +1,9 @@
 # Airhorn-Bot
 ### Commands:
 
-`-airhorn` ~ plays an airhorn into the vc
-`-earhorn` ~ same as airhorn, but **THIS IS EARRAPE**
-`-cheers` ~ cheering sound effect
+* `-airhorn` ~ plays an airhorn into the vc
+* `-earhorn` ~ same as airhorn, but **THIS IS EARRAPE**
+* `-cheers` ~ cheering sound effect
 
 more commands coming soon lol
 
