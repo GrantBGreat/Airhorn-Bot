@@ -24,7 +24,7 @@ more commands coming soon lol
     fs
     ms
     ```
-7) You can now start the bot by running `node .` in the bot's root folder.
+7) You can now start the bot by double clicking the [run.bat](https://github.com/GrantBGreat/Airhorn-Bot/blob/main/run.bat) file **OR** running `node .` in the bot's root folder.
 
 ### Updates:
 This bot is currently still in development and may be buggy, if you would like to make changes simply create a pull request and I would be happy to collaborate.
