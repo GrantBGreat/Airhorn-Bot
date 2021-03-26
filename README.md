@@ -16,7 +16,14 @@ more commands coming soon lol
 
 4) Create a file named `.env` in the root folder of the bot, and enter `TOKEN=the_bot_token_you_just_copied`.
 5) [Install node](https://nodejs.org/en/).
-6) Navigate to the folder with the bots code and run `npm i`, this will install the dependancys discord.js, discordjs/opus, dotenv, fs, and ms.
+6) Navigate to the folder with the bots code and run `npm i`, this will install the following dependancys:
+    ```
+    discord.js
+    discordjs/opus
+    dotenv
+    fs
+    ms
+    ```
 7) You can now start the bot using `node .` in the bot's root folder.
 
 ### Updates:
